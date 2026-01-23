@@ -39,7 +39,8 @@ Sou um **Analista de Infraestrutura e Desenvolvedor** apaixonado por automação
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MrGeeH&theme=dracula" alt="MrGeeH Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?user=MrGeeH&theme=dracula" alt="MrGeeH Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGeeH&theme=dracula" alt="MrGeeH Activity Graph"/>
 </div>
 
 ---
