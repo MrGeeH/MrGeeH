@@ -1,4 +1,4 @@
-# Olá, eu sou o MrGeeH! 👋
+# Olá, eu sou o Geraldo! 👋
 
 ## 👨‍💻 Sobre Mim
 Sou um **Analista de Infraestrutura e Desenvolvedor** apaixonado por automação e cloud computing. Meu foco é criar soluções eficientes, desde bots para comunidades até pipelines de CI/CD complexos.
