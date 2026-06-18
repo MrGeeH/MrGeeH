@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre Mim
 Sou um **Analista de Infraestrutura e Desenvolvedor** apaixonado por automação e desenvolvimento. Meu foco é criar soluções eficientes, desde bots para comunidades até pipelines de CI/CD complexos.
 
-* 🔭 **Atualmente trabalhando em:** Automação de Infraestrutura e Bots para Discord.
+* 🔭 **Atualmente trabalhando em:** Automação de Infraestrutura, Desenvolvimento Mobile e Bots para Discord.
 * 🌱 **Aprendendo:** Novas ferramentas de DevOps e orquestração.
 * ☁️ **Interesses:** AWS, Automação (macOS/Linux), Jenkins e Desenvolvimento de Bots.
 
