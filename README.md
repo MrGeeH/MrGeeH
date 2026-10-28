@@ -34,19 +34,26 @@ Sou um **Analista de Infraestrutura e Desenvolvedor** apaixonado por automação
 
 ## 📊 Estatísticas do GitHub
 
+<!-- Os cards abaixo são gerados pela GitHub Action em .github/workflows/update-stats.yml
+     e salvos na pasta profile/ deste repositório, então não dependem de nenhum serviço externo. -->
+
 <div align="center">
   <a href="https://github.com/MrGeeH">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrGeeH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeeH&layout=compact&theme=dracula"/>
+    <img height="180em" src="./profile/stats.svg" alt="Estatísticas do GitHub de MrGeeH"/>
+    <img height="180em" src="./profile/top-langs.svg" alt="Linguagens mais usadas por MrGeeH"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGeeH&theme=dracula" alt="MrGeeH Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg"/>
+    <img src="./profile/snake-dark.svg" alt="Gráfico de contribuições de MrGeeH"/>
+  </picture>
 </div>
 
 ---
 
-<div align="center"> 
+<div align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
