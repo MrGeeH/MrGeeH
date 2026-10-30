@@ -1,9 +1,10 @@
 # Olá, eu sou o Geraldo! 👋
 
 ## 👨‍💻 Sobre Mim
-Sou um **Analista de Infraestrutura e Desenvolvedor** apaixonado por automação e desenvolvimento. Meu foco é criar soluções eficientes, desde bots para comunidades até pipelines de CI/CD complexos.
+Sou um **Analista de Infraestrutura e Desenvolvedor** apaixonado por automação e desenvolvimento. Meu foco é criar soluções eficientes, desde plugins para o Autodesk Revit e bots para comunidades até pipelines de CI/CD complexos.
 
-* 🔭 **Atualmente trabalhando em:** Automação de Infraestrutura, Desenvolvimento Mobile e Bots para Discord.
+* 🔭 **Atualmente trabalhando em:** Desenvolvimento de Plugins para Revit, Automação de Infraestrutura, Desenvolvimento Mobile.
+* 🏗️ **BIM:** Crio plugins e automações para o Revit em C# usando a Revit API, para agilizar tarefas repetitivas em projetos.
 * 🌱 **Aprendendo:** Novas ferramentas de DevOps e orquestração.
 * ☁️ **Interesses:** AWS, Automação (macOS/Linux), Jenkins e Desenvolvimento de Bots.
 
@@ -16,6 +17,11 @@ Sou um **Analista de Infraestrutura e Desenvolvedor** apaixonado por automação
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Appium](https://img.shields.io/badge/Appium-41c4ff?style=for-the-badge&logo=appium&logoColor=black)
+
+### 🏗️ BIM & Plugins
+![Autodesk Revit](https://img.shields.io/badge/Autodesk_Revit-186BFF?style=for-the-badge&logo=autodeskrevit&logoColor=white)
+![Revit API](https://img.shields.io/badge/Revit_API-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 💻 Linguagens & Scripts
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
